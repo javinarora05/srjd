@@ -34,7 +34,7 @@ const productImageMap = {
   'Biryani Masala Powder': 'biryani.png', // improvise - aromatic masala
   'Tea Masala': 'tea.png', // improvise - aromatic blend
   'Dal Makhani': 'makhani.png', // improvise - all-purpose masala
-  'Besan': 'besan.png', 
+  'Besan': 'besan.png',   
   'Kasoori Methi': 'Kasoori Methi.png',
   'Pudina Chutney': 'Pudina Chutney.png',
   'Aamchoor Powder': 'Amchoor Powder.png',
