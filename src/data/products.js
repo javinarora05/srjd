@@ -1,0 +1,37 @@
+export const products = [
+  { name: 'Turmeric Powder', category: 'Ground Spices', description: 'Golden haldi powder selected for color, aroma, and everyday purity.', sizes: ['50g', '100g', '500g', '1kg'], color: 'yellow' },
+  { name: 'Coriander Powder', category: 'Ground Spices', description: 'Fresh dhania powder for balanced flavor in Punjabi and Indian cooking.', sizes: ['100g', '500g', '1kg'], color: 'green' },
+  { name: 'Red Chilli Powder', category: 'Ground Spices', description: 'Vibrant chilli powder crafted for heat, color, and consistency.', sizes: ['50g', '100g', '500g'], color: 'red' },
+  { name: 'Kashmiri Mirch', category: 'Ground Spices', description: 'Rich red Kashmiri mirch for deep color and mild, appetizing warmth.', sizes: ['50g', '100g', '500g'], color: 'red' },
+  { name: 'Cumin Powder', category: 'Ground Spices', description: 'Earthy jeera powder with a roasted, aromatic profile.', sizes: ['50g', '100g', '500g'], color: 'brown' },
+  { name: 'Jeera Powder', category: 'Ground Spices', description: 'Classic jeera powder for tadka, curries, chaats and snacks.', sizes: ['50g', '100g', '200g'], color: 'brown' },
+  { name: 'Black Pepper Powder', category: 'Ground Spices', description: 'Sharp, freshly packed pepper powder for kitchens and food service.', sizes: ['50g', '100g', '500g'], color: 'brown' },
+  { name: 'White Pepper Powder', category: 'Ground Spices', description: 'Clean pepper warmth for soups, sauces, snacks, and premium recipes.', sizes: ['50g', '100g'], color: 'yellow' },
+  { name: 'Ginger Powder', category: 'Ground Spices', description: 'Dry ginger powder with warm, bright flavor for tea and masalas.', sizes: ['50g', '100g'], color: 'yellow' },
+  { name: 'Kitchen King', category: 'Blended Masalas', description: 'A signature all-purpose masala blend for rich everyday sabzis.', sizes: ['50g', '100g', '500g'], color: 'green' },
+  { name: 'Chaat Masala', category: 'Blended Masalas', description: 'Tangy street-style blend for snacks, fruits, salads, and chaats.', sizes: ['50g', '100g'], color: 'red' },
+  { name: 'Meat Masala', category: 'Blended Masalas', description: 'Robust Punjabi-style masala for hearty meat and curry preparations.', sizes: ['50g', '100g', '500g'], color: 'brown' },
+  { name: 'Garam Masala', category: 'Blended Masalas', description: 'Classic aromatic blend made for finishing flavor and fragrance.', sizes: ['50g', '100g'], color: 'brown' },
+  { name: 'Chhole Masala', category: 'Blended Masalas', description: 'Amritsar-inspired spice blend for flavorful chhole and legumes.', sizes: ['50g', '100g'], color: 'red' },
+  { name: 'Sambar Masala', category: 'Blended Masalas', description: 'Balanced spice blend for comforting South Indian sambar.', sizes: ['50g', '100g'], color: 'yellow' },
+  { name: 'Pav Bhaji Masala', category: 'Blended Masalas', description: 'Street-style blend for buttery pav bhaji and snack preparations.', sizes: ['50g', '100g'], color: 'red' },
+  { name: 'Shahi Paneer Masala', category: 'Blended Masalas', description: 'Creamy restaurant-style spice profile for paneer gravies.', sizes: ['50g', '100g'], color: 'yellow' },
+  { name: 'Jaljeera Powder', category: 'Blended Masalas', description: 'Tangy digestive blend for jaljeera drinks and summer refreshers.', sizes: ['50g', '100g'], color: 'green' },
+  { name: 'Chicken Masala', category: 'Blended Masalas', description: 'Full-bodied masala blend for chicken curry and home-style gravies.', sizes: ['50g', '100g', '200g'], color: 'brown' },
+  { name: 'Pratha Masala', category: 'Blended Masalas', description: 'Flavoring blend for stuffed parathas and Punjabi breakfasts.', sizes: ['50g', '100g'], color: 'green' },
+  { name: 'Black Salt', category: 'Blended Masalas', description: 'Kala namak seasoning for chaats, drinks, salads, and snacks.', sizes: ['50g', '100g', '200g'], color: 'brown' },
+  { name: 'Fish Masala Powder', category: 'Blended Masalas', description: 'Savory spice blend for fish curries, marinades and frying.', sizes: ['50g', '100g'], color: 'red' },
+  { name: 'Biryani Masala Powder', category: 'Blended Masalas', description: 'Aromatic biryani masala for layered rice dishes and pulao.', sizes: ['50g', '100g'], color: 'brown' },
+  { name: 'Tea Masala', category: 'Blended Masalas', description: 'Warming spice blend for fragrant chai with traditional character.', sizes: ['50g', '100g'], color: 'green' },
+  { name: 'Dal Makhani', category: 'Blended Masalas', description: 'Punjabi-style seasoning for rich dal makhani and creamy lentils.', sizes: ['50g', '100g'], color: 'brown' },
+  { name: 'Besan', category: 'Specialty Products', description: 'Premium gram flour for pakoras, sweets, gravies, and home cooking.', sizes: ['500g', '1kg', '5kg'], color: 'yellow' },
+  { name: 'Kasoori Methi', category: 'Specialty Products', description: 'Aromatic dried fenugreek leaves to finish curries and breads.', sizes: ['25g', '50g', '100g'], color: 'green' },
+  { name: 'Pudina Chutney', category: 'Specialty Products', description: 'Mint-forward chutney seasoning for snacks and quick preparations.', sizes: ['50g', '100g'], color: 'green' },
+  { name: 'Aamchoor Powder', category: 'Specialty Products', description: 'Dry mango powder for tang, balance and classic Indian flavor.', sizes: ['50g', '100g', '200g'], color: 'yellow' },
+  { name: 'Elaichi Powder', category: 'Specialty Products', description: 'Cardamom powder for sweets, tea, desserts, and festive recipes.', sizes: ['20g', '50g'], color: 'green' },
+  { name: 'Laung Powder', category: 'Specialty Products', description: 'Clove powder for bold aroma in masalas, tea and special dishes.', sizes: ['20g', '50g'], color: 'brown' },
+  { name: 'Asafoetida Hing', category: 'Specialty Products', description: 'Hing seasoning for dals, snacks, pickles, and everyday tadka.', sizes: ['10g', '20g', '50g'], color: 'yellow' }
+];
+
+export const categories = ['All', 'Ground Spices', 'Blended Masalas', 'Specialty Products'];
+export const featuredProducts = ['Besan', 'Kitchen King', 'Meat Masala', 'Garam Masala', 'Kashmiri Mirch', 'Ginger Powder', 'Sambar Masala', 'Kasoori Methi'];

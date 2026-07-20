@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 350" role="img" aria-labelledby="title desc">
+  <title id="title">SRGD Spices packaging lineup</title>
+  <desc id="desc">Orange SRGD banner with Besan pouch and masala cartons styled like the supplied packaging.</desc>
+  <defs>
+    <linearGradient id="orangeBg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f59e0b"/>
+      <stop offset=".45" stop-color="#e85d13"/>
+      <stop offset="1" stop-color="#b91c1c"/>
+    </linearGradient>
+    <pattern id="floral" width="74" height="74" patternUnits="userSpaceOnUse">
+      <path d="M37 13c10 10 10 24 0 34-10-10-10-24 0-34Zm0 34c10 10 24 10 34 0-10-10-24-10-34 0Zm0 0c-10 10-24 10-34 0 10-10 24-10 34 0Z" fill="none" stroke="#fff7db" stroke-width="2" opacity=".28"/>
+      <circle cx="37" cy="37" r="5" fill="#fff7db" opacity=".22"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feDropShadow dx="0" dy="12" stdDeviation="10" flood-color="#3a1600" flood-opacity=".35"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="350" fill="url(#orangeBg)"/>
+  <rect width="1280" height="350" fill="url(#floral)"/>
+  <path d="M0 285c168-46 344-54 523-22 137 24 283 27 438 8 111-14 204-10 279 14v65H0Z" fill="#9b3b06" opacity=".22"/>
+  <path d="M468 0h344l-54 74H522Z" fill="#68270c" opacity=".55"/>
+
+  <g filter="url(#shadow)">
+    <g transform="translate(93 72) rotate(-2)">
+      <rect x="0" y="0" width="152" height="213" rx="8" fill="#fffdf7"/>
+      <rect x="104" y="0" width="48" height="213" rx="8" fill="#f6cc2f"/>
+      <rect x="0" y="0" width="152" height="213" rx="8" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+      <use href="#logo" x="45" y="26"/>
+      <text x="75" y="94" text-anchor="middle" font-family="Georgia, serif" font-size="25" font-weight="700" fill="#c46a17">Ginger</text>
+      <text x="75" y="120" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="800" fill="#8b2f10">POWDER</text>
+      <circle cx="67" cy="164" r="32" fill="#ead7a9"/>
+      <path d="M23 185c28-18 58-21 102-5" stroke="#166534" stroke-width="8" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(237 58) rotate(1)">
+      <rect x="0" y="0" width="161" height="224" rx="8" fill="#fffdf7"/>
+      <rect x="111" y="0" width="50" height="224" rx="8" fill="#ef4f9a"/>
+      <path d="M112 0c-30 56-31 128 0 224" fill="#f7dbe8" opacity=".72"/>
+      <rect x="0" y="0" width="161" height="224" rx="8" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+      <use href="#logo" x="47" y="24"/>
+      <text x="80" y="103" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="900" fill="#c0262d">SAMBAR</text>
+      <text x="80" y="130" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" font-weight="900" fill="#c0262d">MASALA</text>
+      <circle cx="76" cy="172" r="36" fill="#ef7b21"/>
+      <path d="M38 176c32 20 63 22 92 2" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(387 83) rotate(-1)">
+      <rect x="0" y="0" width="150" height="205" rx="8" fill="#fffdf7"/>
+      <rect x="104" y="0" width="46" height="205" rx="8" fill="#ef2d3b"/>
+      <rect x="0" y="0" width="150" height="205" rx="8" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+      <use href="#logo" x="43" y="22"/>
+      <text x="75" y="99" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-weight="700" fill="#c0262d">Kashmiri Mirch</text>
+      <text x="75" y="123" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="800" fill="#7f1d1d">Powder</text>
+      <path d="M34 169c32-22 65-21 101-4v23H34Z" fill="#c2410c"/>
+    </g>
+
+    <g transform="translate(512 25)">
+      <path d="M0 18h245l-9 299H9Z" fill="#fffdf7"/>
+      <path d="M166 18h79l-9 299h-73Z" fill="#facc15"/>
+      <path d="M0 18h245l-9 299H9Z" fill="none" stroke="#d97706" stroke-width="3"/>
+      <path d="M0 18h245" stroke="#7f1d1d" stroke-width="8" stroke-dasharray="10 7"/>
+      <use href="#logo" x="88" y="48"/>
+      <text x="122" y="156" text-anchor="middle" font-family="Georgia, serif" font-size="55" font-weight="800" fill="#4f46e5">Besan</text>
+      <path d="M34 232c58-35 116-36 177-1 3 22-3 44-22 57H58c-20-15-27-34-24-56Z" fill="#d7a13d"/>
+      <circle cx="96" cy="239" r="18" fill="#b91c1c"/>
+      <circle cx="139" cy="239" r="18" fill="#57651a"/>
+      <text x="122" y="303" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" font-weight="800" fill="#7f1d1d">AN ISO 9001:2015 CERTIFIED COMPANY</text>
+    </g>
+
+    <g transform="translate(743 77) rotate(1)">
+      <rect x="0" y="0" width="158" height="217" rx="8" fill="#fffdf7"/>
+      <rect x="108" y="0" width="50" height="217" rx="8" fill="#ec4899"/>
+      <path d="M111 0c-28 52-28 132 0 217" fill="#f8cee9" opacity=".7"/>
+      <rect x="0" y="0" width="158" height="217" rx="8" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+      <use href="#logo" x="46" y="24"/>
+      <text x="79" y="110" text-anchor="middle" font-family="Georgia, serif" font-size="28" font-weight="800" fill="#d9468c">Kitchen</text>
+      <text x="79" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" font-weight="900" fill="#d9468c">KING</text>
+      <circle cx="82" cy="174" r="33" fill="#eab308"/>
+      <path d="M48 170c29 22 61 23 94 0" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/>
+    </g>
+
+    <g transform="translate(901 58) rotate(-1)">
+      <rect x="0" y="0" width="160" height="225" rx="8" fill="#fffdf7"/>
+      <rect x="110" y="0" width="50" height="225" rx="8" fill="#b5a58a"/>
+      <rect x="0" y="0" width="160" height="225" rx="8" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+      <use href="#logo" x="47" y="24"/>
+      <text x="80" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="23" font-weight="800" fill="#8b5a2b">Garam Masala</text>
+      <text x="80" y="136" text-anchor="middle" font-family="Arial, sans-serif" font-size="14" font-weight="800" fill="#57534e">Delectating 55 Years</text>
+      <circle cx="78" cy="174" r="36" fill="#8b5a2b"/>
+    </g>
+
+    <g transform="translate(1064 76) rotate(2)">
+      <rect x="0" y="0" width="154" height="213" rx="8" fill="#fffdf7"/>
+      <rect x="106" y="0" width="48" height="213" rx="8" fill="#e11d48"/>
+      <path d="M107 0c-25 49-25 126 0 213" fill="#fac3d1" opacity=".68"/>
+      <rect x="0" y="0" width="154" height="213" rx="8" fill="none" stroke="#e5e7eb" stroke-width="3"/>
+      <use href="#logo" x="45" y="24"/>
+      <text x="77" y="108" text-anchor="middle" font-family="Georgia, serif" font-size="22" font-weight="800" fill="#be123c">Meat Masala</text>
+      <circle cx="78" cy="169" r="38" fill="#a43f1f"/>
+    </g>
+  </g>
+
+  <defs>
+    <g id="logo">
+      <ellipse cx="31" cy="22" rx="31" ry="21" fill="#b91c1c"/>
+      <ellipse cx="31" cy="22" rx="26" ry="17" fill="none" stroke="#facc15" stroke-width="2"/>
+      <circle cx="31" cy="8" r="5" fill="#fffdf7"/>
+      <text x="31" y="27" text-anchor="middle" font-family="Georgia, serif" font-size="18" font-weight="800" fill="#fef08a">SRGD</text>
+      <text x="31" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="6" font-weight="800" letter-spacing="2" fill="#fff">SPICES</text>
+      <path d="M16 47c20-3 35-11 45-25 8 8 14 10 24 5-9 11-22 17-38 18-14 1-25 5-31 8Z" fill="#ef4444"/>
+      <path d="M60 24c8 5 15 5 22 0" fill="none" stroke="#166534" stroke-width="3" stroke-linecap="round"/>
+    </g>
+  </defs>
+</svg>
